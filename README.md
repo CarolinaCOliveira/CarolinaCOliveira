@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarolinaCOliveira
-- 👀 I’m interested in aprender linguagens de programação e migrar para área de DEV ou QA
-- 🌱 I’m currently learning  JavaScript, SQL e noções de testes
-- 💞️ I’m looking to collaborate on  projetos novos 
+- 👀 I’m interested 
+- 🌱 I’m currently learning  
+- 💞️ I’m looking to collaborate on   
 - 📫 How to reach me  https://www.linkedin.com/in/carolina-oliveira-ba1263192/
   
 <!---
