@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CarolinaCOliveira
-- 👀 I’m interested 
-- 🌱 I’m currently learning  
-- 💞️ I’m looking to collaborate on   
+- 👀 I’m interested  em trabalhar na área de Front-end 
+- 🌱 I’m currently learning  HTML, CSS e  JAVASCRIPT
 - 📫 How to reach me  https://www.linkedin.com/in/carolina-oliveira-ba1263192/
   
 <!---
